@@ -1,5 +1,4 @@
 import Phaser from "phaser";
-
 import HelloWorldScene from "./scenes/HelloWorldScene";
 
 const w = window.innerWidth;
