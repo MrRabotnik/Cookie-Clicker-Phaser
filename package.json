@@ -29,8 +29,7 @@
     "dependencies": {
         "parcel": "^2.0.0-canary.1679",
         "phaser": "^3.55.2",
-        "postcss": "^8.4.39",
-        "postcss-loader": "^8.1.1"
+        "postcss": "^8.4.39"
     },
     "parcelCleanPaths": [
         "dist"
